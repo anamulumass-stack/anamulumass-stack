@@ -9,7 +9,7 @@ I work on microscale additive manufacturing by two-photon direct laser writing, 
 
 - **DLW-Bench** — a structured knowledge base of 4,245 process records extracted from 2,173 direct laser writing papers with large language models, each value traceable to a verbatim quote from its source.
 - **PrintNet** — a 3D U-Net, conditioned on printer and process settings, that predicts where and how a design is likely to fail before it is printed.
-- **Paper** — A. Hoque and S. Sarker, "Toward Autonomous Microscale Manufacturing: Physics-Informed Printability Prediction for Direct Laser Writing," ASME International Manufacturing Science and Engineering Conference (MSEC 2027), submitted. [Supplementary information](https://github.com/anamulumass-stack/dlw-bench-printnet-supplementary)
+- **Paper** — A. Hoque and S. Sarker, "Toward Autonomous Microscale Manufacturing: Physics-Informed Printability Prediction for Direct Laser Writing," ASME International Manufacturing Science and Engineering Conference (MSEC 2027), submitted. Supplementary information is available on request.
 
 ## Research software
 
